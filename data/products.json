@@ -1,0 +1,278 @@
+[
+  {
+    "id": "1",
+    "name": "Пастельная нежность",
+    "description": "Нежный букет в пастельных тонах с розами и эустомами. Идеален для романтического подарка.",
+    "price": 4500,
+    "oldPrice": 5500,
+    "rating": 4.9,
+    "reviewsCount": 127,
+    "images": [
+      "/images/products/pastel-1.jpg",
+      "/images/products/pastel-2.jpg",
+      "/images/products/pastel-3.jpg"
+    ],
+    "category": "bouquets",
+    "collection": "romantic",
+    "sizes": [
+      { "id": "small", "name": "S", "flowersCount": "15-21 цветок", "price": 3500, "height": "40-45 см" },
+      { "id": "medium", "name": "M", "flowersCount": "25-35 цветков", "price": 4500, "height": "50-55 см" },
+      { "id": "large", "name": "L", "flowersCount": "40-51 цветок", "price": 6500, "height": "60-65 см" }
+    ],
+    "colors": ["pink", "white", "cream"],
+    "composition": [
+      { "name": "Розы", "count": 7 },
+      { "name": "Эустомы", "count": 5 },
+      { "name": "Эвкалипт", "count": 3 }
+    ],
+    "care": ["Менять воду каждый день", "Подрезать стебли под углом", "Избегать прямых солнечных лучей"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Монобукет пионов",
+    "description": "Роскошные пионы в монобукете. Символ благополучия и счастья.",
+    "price": 7500,
+    "rating": 5.0,
+    "reviewsCount": 89,
+    "images": [
+      "/images/products/peonies-1.jpg",
+      "/images/products/peonies-2.jpg"
+    ],
+    "category": "bouquets",
+    "collection": "luxury",
+    "sizes": [
+      { "id": "small", "name": "S", "flowersCount": "9 пионов", "price": 5500, "height": "40-45 см" },
+      { "id": "medium", "name": "M", "flowersCount": "15 пионов", "price": 7500, "height": "50-55 см" },
+      { "id": "large", "name": "L", "flowersCount": "25 пионов", "price": 12000, "height": "60-65 см" }
+    ],
+    "colors": ["pink", "coral"],
+    "composition": [
+      { "name": "Пионы", "count": 15 }
+    ],
+    "care": ["Менять воду ежедневно", "Держать в прохладном месте", "Срок жизни 5-7 дней"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Полевое настроение",
+    "description": "Легкий и воздушный букет из полевых цветов. Создает атмосферу летнего луга.",
+    "price": 3200,
+    "rating": 4.7,
+    "reviewsCount": 64,
+    "images": [
+      "/images/products/field-1.jpg",
+      "/images/products/field-2.jpg",
+      "/images/products/field-3.jpg"
+    ],
+    "category": "bouquets",
+    "collection": "casual",
+    "sizes": [
+      { "id": "small", "name": "S", "flowersCount": "20-25 цветков", "price": 2200, "height": "35-40 см" },
+      { "id": "medium", "name": "M", "flowersCount": "35-45 цветков", "price": 3200, "height": "45-50 см" },
+      { "id": "large", "name": "L", "flowersCount": "50-60 цветков", "price": 4500, "height": "55-60 см" }
+    ],
+    "colors": ["multicolor"],
+    "composition": [
+      { "name": "Ромашки", "count": 10 },
+      { "name": "Васильки", "count": 8 },
+      { "name": "Маки", "count": 7 },
+      { "name": "Злаки", "count": 10 }
+    ],
+    "care": ["Менять воду каждые 2 дня", "Удалять увядшие цветы", "Срок жизни 7-10 дней"],
+    "inStock": true
+  },
+  {
+    "id": "4",
+    "name": "Экзотическая страсть",
+    "description": "Яркий букет с орхидеями и антуриумами. Для тех, кто ценит необычное.",
+    "price": 8900,
+    "rating": 4.8,
+    "reviewsCount": 42,
+    "images": [
+      "/images/products/exotic-1.jpg",
+      "/images/products/exotic-2.jpg"
+    ],
+    "category": "bouquets",
+    "collection": "exotic",
+    "sizes": [
+      { "id": "small", "name": "S", "flowersCount": "7-9 цветков", "price": 6500, "height": "45-50 см" },
+      { "id": "medium", "name": "M", "flowersCount": "12-15 цветков", "price": 8900, "height": "55-60 см" },
+      { "id": "large", "name": "L", "flowersCount": "18-21 цветок", "price": 12500, "height": "65-70 см" }
+    ],
+    "colors": ["red", "purple", "orange"],
+    "composition": [
+      { "name": "Орхидеи", "count": 5 },
+      { "name": "Антуриумы", "count": 4 },
+      { "name": "Протеи", "count": 3 }
+    ],
+    "care": ["Опрыскивать листья водой", "Менять воду каждые 3 дня", "Срок жизни до 2 недель"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "5",
+    "name": "Белое облако",
+    "description": "Монобукет из белых хризантем. Символ чистоты и искренности.",
+    "price": 4200,
+    "rating": 4.9,
+    "reviewsCount": 95,
+    "images": [
+      "/images/products/white-1.jpg",
+      "/images/products/white-2.jpg"
+    ],
+    "category": "bouquets",
+    "collection": "minimal",
+    "sizes": [
+      { "id": "small", "name": "S", "flowersCount": "11 хризантем", "price": 3200, "height": "40-45 см" },
+      { "id": "medium", "name": "M", "flowersCount": "17 хризантем", "price": 4200, "height": "50-55 см" },
+      { "id": "large", "name": "L", "flowersCount": "25 хризантем", "price": 5900, "height": "60-65 см" }
+    ],
+    "colors": ["white"],
+    "composition": [
+      { "name": "Хризантемы", "count": 17 }
+    ],
+    "care": ["Менять воду ежедневно", "Подрезать стебли", "Срок жизни до 3 недель"],
+    "inStock": true
+  },
+  {
+    "id": "6",
+    "name": "Яркий микс",
+    "description": "Разноцветный букет, поднимающий настроение. Идеален для дня рождения.",
+    "price": 5500,
+    "rating": 4.8,
+    "reviewsCount": 78,
+    "images": [
+      "/images/products/mix-1.jpg",
+      "/images/products/mix-2.jpg",
+      "/images/products/mix-3.jpg"
+    ],
+    "category": "bouquets",
+    "collection": "birthday",
+    "sizes": [
+      { "id": "small", "name": "S", "flowersCount": "15-19 цветков", "price": 4200, "height": "40-45 см" },
+      { "id": "medium", "name": "M", "flowersCount": "25-31 цветок", "price": 5500, "height": "50-55 см" },
+      { "id": "large", "name": "L", "flowersCount": "35-41 цветок", "price": 7500, "height": "60-65 см" }
+    ],
+    "colors": ["multicolor"],
+    "composition": [
+      { "name": "Герберы", "count": 7 },
+      { "name": "Альстромерии", "count": 9 },
+      { "name": "Хризантемы", "count": 6 },
+      { "name": "Зелень", "count": 9 }
+    ],
+    "care": ["Менять воду каждые 2 дня", "Удалять нижние листья", "Срок жизни 10-14 дней"],
+    "inStock": true
+  },
+  {
+    "id": "7",
+    "name": "Нежность в коробке",
+    "description": "Композиция из роз в шляпной коробке. Премиальный подарок.",
+    "price": 9500,
+    "oldPrice": 11000,
+    "rating": 5.0,
+    "reviewsCount": 134,
+    "images": [
+      "/images/products/box-1.jpg",
+      "/images/products/box-2.jpg"
+    ],
+    "category": "boxes",
+    "collection": "luxury",
+    "sizes": [
+      { "id": "small", "name": "Мини", "flowersCount": "15 роз", "price": 7500, "height": "20 см" },
+      { "id": "medium", "name": "Стандарт", "flowersCount": "25 роз", "price": 9500, "height": "25 см" },
+      { "id": "large", "name": "Премиум", "flowersCount": "51 роза", "price": 15000, "height": "30 см" }
+    ],
+    "colors": ["pink", "white"],
+    "composition": [
+      { "name": "Розы Кения", "count": 25 },
+      { "name": "Эустомы", "count": 8 },
+      { "name": "Зелень", "count": 5 }
+    ],
+    "care": ["Поливать каждые 2 дня", "Хранить вдали от отопления", "Срок жизни до 2 недель"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "8",
+    "name": "Тюльпановый рай",
+    "description": "Свежие тюльпаны из Голландии. Весеннее настроение круглый год.",
+    "price": 3800,
+    "rating": 4.9,
+    "reviewsCount": 156,
+    "images": [
+      "/images/products/tulips-1.jpg",
+      "/images/products/tulips-2.jpg",
+      "/images/products/tulips-3.jpg"
+    ],
+    "category": "bouquets",
+    "collection": "spring",
+    "sizes": [
+      { "id": "small", "name": "S", "flowersCount": "15 тюльпанов", "price": 2500, "height": "35-40 см" },
+      { "id": "medium", "name": "M", "flowersCount": "25 тюльпанов", "price": 3800, "height": "40-45 см" },
+      { "id": "large", "name": "L", "flowersCount": "51 тюльпан", "price": 6500, "height": "45-50 см" }
+    ],
+    "colors": ["pink", "red", "yellow", "white", "purple"],
+    "composition": [
+      { "name": "Тюльпаны", "count": 25 }
+    ],
+    "care": ["Менять воду ежедневно", "Подрезать стебли ровно", "Срок жизни 5-7 дней"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "9",
+    "name": "Корзина садовых цветов",
+    "description": "Романтичная корзина с гортензиями и розами. Винтажный стиль.",
+    "price": 7200,
+    "rating": 4.7,
+    "reviewsCount": 61,
+    "images": [
+      "/images/products/basket-1.jpg",
+      "/images/products/basket-2.jpg"
+    ],
+    "category": "baskets",
+    "collection": "romantic",
+    "sizes": [
+      { "id": "small", "name": "Маленькая", "flowersCount": "Композиция 20x20", "price": 5500, "height": "25 см" },
+      { "id": "medium", "name": "Средняя", "flowersCount": "Композиция 30x30", "price": 7200, "height": "30 см" },
+      { "id": "large", "name": "Большая", "flowersCount": "Композиция 40x40", "price": 9900, "height": "35 см" }
+    ],
+    "colors": ["pink", "blue", "white"],
+    "composition": [
+      { "name": "Гортензии", "count": 3 },
+      { "name": "Розы", "count": 9 },
+      { "name": "Эустомы", "count": 7 },
+      { "name": "Эвкалипт", "count": 5 }
+    ],
+    "care": ["Поливать каждые 2 дня", "Опрыскивать", "Срок жизни до 2 недель"],
+    "inStock": true
+  },
+  {
+    "id": "10",
+    "name": "101 роза",
+    "description": "Грандиозный букет из 101 розы. Для самых важных моментов.",
+    "price": 18900,
+    "oldPrice": 22000,
+    "rating": 5.0,
+    "reviewsCount": 203,
+    "images": [
+      "/images/products/101roses-1.jpg",
+      "/images/products/101roses-2.jpg"
+    ],
+    "category": "bouquets",
+    "collection": "luxury",
+    "sizes": [
+      { "id": "xlarge", "name": "XL", "flowersCount": "101 роза", "price": 18900, "height": "70-80 см" }
+    ],
+    "colors": ["red", "white", "pink", "mix"],
+    "composition": [
+      { "name": "Розы Кения премиум", "count": 101 }
+    ],
+    "care": ["Менять воду ежедневно", "Подрезать стебли", "Хранить в прохладе", "Срок жизни до 10 дней"],
+    "inStock": true,
+    "featured": true
+  }
+]
