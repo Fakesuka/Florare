@@ -1,0 +1,76 @@
+[
+  {
+    "id": "romantic",
+    "name": "Романтика",
+    "description": "Нежные букеты для выражения самых искренних чувств",
+    "image": "/images/collections/romantic.jpg",
+    "productsCount": 12,
+    "season": "Круглый год",
+    "occasion": "Признание в любви",
+    "featured": true
+  },
+  {
+    "id": "march8",
+    "name": "8 Марта",
+    "description": "Яркие весенние букеты для самых прекрасных женщин",
+    "image": "/images/collections/march8.jpg",
+    "productsCount": 18,
+    "season": "Весна",
+    "occasion": "8 Марта",
+    "featured": true
+  },
+  {
+    "id": "wedding",
+    "name": "Свадьбы",
+    "description": "Изысканные композиции для самого важного дня",
+    "image": "/images/collections/wedding.jpg",
+    "productsCount": 15,
+    "occasion": "Свадьба",
+    "featured": true
+  },
+  {
+    "id": "minimal",
+    "name": "Минимализм",
+    "description": "Утонченная простота и элегантность в каждом букете",
+    "image": "/images/collections/minimal.jpg",
+    "productsCount": 10,
+    "season": "Круглый год",
+    "featured": false
+  },
+  {
+    "id": "birthday",
+    "name": "Дни рождения",
+    "description": "Яркие и радостные букеты для праздничного настроения",
+    "image": "/images/collections/birthday.jpg",
+    "productsCount": 14,
+    "occasion": "День рождения",
+    "featured": true
+  },
+  {
+    "id": "just-because",
+    "name": "Просто так",
+    "description": "Милые букеты для приятных сюрпризов без повода",
+    "image": "/images/collections/just-because.jpg",
+    "productsCount": 16,
+    "season": "Круглый год",
+    "featured": false
+  },
+  {
+    "id": "luxury",
+    "name": "Премиум",
+    "description": "Роскошные композиции из редких и элитных цветов",
+    "image": "/images/collections/luxury.jpg",
+    "productsCount": 8,
+    "season": "Круглый год",
+    "featured": true
+  },
+  {
+    "id": "exotic",
+    "name": "Экзотика",
+    "description": "Необычные букеты с тропическими цветами",
+    "image": "/images/collections/exotic.jpg",
+    "productsCount": 6,
+    "season": "Круглый год",
+    "featured": false
+  }
+]
